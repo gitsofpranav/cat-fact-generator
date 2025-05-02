@@ -1,0 +1,53 @@
+body {
+    background-image: url('cat.jpg'); 
+    background-size: cover;       
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 100vh;               
+    margin: 0;                   
+    font-family: Arial, sans-serif;
+    color: white;                
+  }
+  
+
+  #fact {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    max-width: 400px;
+    word-wrap: break-word;
+    line-height: 1.5;
+    font-size: 18px;
+    padding: 15px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+    color: white;
+    text-align: left;
+  }
+
+  #btn {
+    position: absolute;
+    top: 220px;       
+    left: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #ff9800; 
+    color: white;
+  }
+
+
+  #fact {
+    margin: 20px;
+  }
+  
+  #btn {
+    margin: 20px;
+    margin-top: 40px;
+  }
+  
+  
+  
+  
