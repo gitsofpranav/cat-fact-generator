@@ -50,6 +50,13 @@ body {
     margin-top: 40px;
   }
   
+
+  @media (max-width: 600px) {
+    body {
+      background-position: top center;
+    }
+  }
+  
   
   
   
