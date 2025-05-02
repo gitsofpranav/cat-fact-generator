@@ -1,13 +1,15 @@
 body {
-    background-image: url('cat.jpg'); 
-    background-size: cover;       
-    background-repeat: no-repeat; 
-    background-position: center; 
-    height: 100vh;               
-    margin: 0;                   
-    font-family: Arial, sans-serif;
-    color: white;                
-  }
+  background-image: url('cat.jpg');
+  background-size: cover;             /* Image covers the whole screen */
+  background-repeat: no-repeat;       /* No repeating of image */
+  background-position: center center; /* Image is centered */
+  background-attachment: fixed;       /* Optional: Makes image fixed on scroll */
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
   
 
   #fact {
